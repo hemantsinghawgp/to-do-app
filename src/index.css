@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.bg-grey {
+  background-color: #eff1f2 !important;
+}
+
+.completed .form-check-label {
+  text-decoration: line-through;
+}
+
+.footer {
+  text-align: center;
+}
